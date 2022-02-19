@@ -1,4 +1,4 @@
-# How-Troll-are-you-Measuring-and-Detecting-Troll-Behavior-inOnline-Social-Networks
+# How-Troll-are-you-Measuring-and-Detecting-Troll-Behavior-in-Online-Social-Networks
 
 Code for the implementation of the approach presented in "How Troll are you Measuring and Detecting Troll Behavior in Online Social Networks?"
 
